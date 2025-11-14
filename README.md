@@ -6,8 +6,12 @@ These examples span small MLPs, double descent, and billion-parameter LLMs.
 ---
 
 ## 📘 Core Examples
+Single layer example
 - **[SingleLayerWWExample.ipynb](SingleLayerWWExample.ipynb)**
 
+How to analyze fine-tuned models
+- **[WW_FIneTuned_Alphas.ipynb](WW_FIneTuned_Alphas.ipynb)**
+- **[WW_PEFT.ipynb](WW_PEFT.ipynb)**
 ---
 
 ## 🧠 MLP + MNIST Experiments
@@ -27,11 +31,14 @@ Comparing the inductive biases between AdamW and Muon
 ---
 
 ## 🧬 LLM + Fine-Tuning Examples
+Post Analysis of the paper "Overtrained Language Models Are Harder to Fine-Tune"
 - **[OLMO1B.ipynb](OLMO1B.ipynb)**
 - **[OLMO1B_Fine_Tuning_Results.csv](OLMO1B_Fine_Tuning_Results.csv)**
-- **[WW_FIneTuned_Alphas.ipynb](WW_FIneTuned_Alphas.ipynb)**
+
+[Dragon Kings blog](https://calculatedcontent.com/2024/01/29/evaluating-llms-with-weightwatcher-part-iii-the-magic-of-mistral-a-story-of-dragon-kings/)
 - **[WW_Mistral_DragonKings.ipynb](WW_Mistral_DragonKings.ipynb)**
-- **[WW_PEFT.ipynb](WW_PEFT.ipynb)**
+
+Expeperiment Method: SVD Smooting
 - **[WW_SVDSMoothing_TinyLLaMAipynb.ipynb](WW_SVDSMoothing_TinyLLaMAipynb.ipynb)**
 
 ---
