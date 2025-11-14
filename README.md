@@ -1,4 +1,4 @@
-# WeightWatcher-Examples
+D# WeightWatcher-Examples
 A curated collection of real-world examples, notebooks, and experiments using **WeightWatcher**, the open‑source tool for analyzing layer-wise spectra, heavy‑tailed behavior, power‑law exponents (α), correlation traps, and model quality throughout training.
 
 These examples span small MLPs, double descent, and billion-parameter LLMs.
@@ -44,9 +44,12 @@ Expeperiment Method: SVD Smooting
 ---
 
 ## 🧪 Miscellaneous
-- **[random_labels/](random_labels/)**
+The original 1989 Double Descent Experiment (https://calculatedcontent.com/2024/03/01/describing-double-descent-with-weightwatcher/)
 - **[F_Vallet_Full.ipynb](F_Vallet_Full.ipynb)**
 - **[WW_DoubleDesecent.ipynb](WW_DoubleDesecent.ipynb)**
+
+Old experiments on random labels
+- **[random_labels/](random_labels/)**
 ---
 
 ## 🚀 What These Examples Demonstrate
