@@ -35,7 +35,7 @@ Post Analysis of the paper "Overtrained Language Models Are Harder to Fine-Tune"
 - **[OLMO1B.ipynb](OLMO1B.ipynb)**
 - **[OLMO1B_Fine_Tuning_Results.csv](OLMO1B_Fine_Tuning_Results.csv)**
 
-[Dragon Kings blog](https://calculatedcontent.com/2024/01/29/evaluating-llms-with-weightwatcher-part-iii-the-magic-of-mistral-a-story-of-dragon-kings/)
+The Magic of Mistral [Dragon Kings blog](https://calculatedcontent.com/2024/01/29/evaluating-llms-with-weightwatcher-part-iii-the-magic-of-mistral-a-story-of-dragon-kings/)
 - **[WW_Mistral_DragonKings.ipynb](WW_Mistral_DragonKings.ipynb)**
 
 Expeperiment Method: SVD Smooting
