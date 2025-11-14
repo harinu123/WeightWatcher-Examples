@@ -40,7 +40,6 @@ Comparing the inductive biases between AdamW and Muon
 - **[random_labels/](random_labels/)**
 - **[F_Vallet_Full.ipynb](F_Vallet_Full.ipynb)**
 - **[WW_DoubleDesecent.ipynb](WW_DoubleDesecent.ipynb)**
-- **[WW-MLP3-AdamW.ipynb] (WW-MLP3-AdamW.ipynb)**
 ---
 
 ## 🚀 What These Examples Demonstrate
