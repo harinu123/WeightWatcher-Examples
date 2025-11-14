@@ -1,2 +1,62 @@
 # WeightWatcher-Examples
-User Examples of the WeightWatcher project
+A curated collection of real-world examples, notebooks, and experiments using **WeightWatcher**, the open‑source tool for analyzing layer-wise spectra, heavy‑tailed behavior, power‑law exponents (α), correlation traps, and model quality throughout training.
+
+These examples span small MLPs, double descent, and billion-parameter LLMs.
+
+---
+
+## 📘 Core Examples
+- **[SingleLayerWWExample.ipynb](SingleLayerWWExample.ipynb)**
+
+
+---
+
+## 🧠 MLP + MNIST Experiments
+- **[MLP3-MNIST-AdamW.ipynb](MLP3-MNIST-AdamW.ipynb)**
+- **[MLP3-MNIST-Muon.ipynb](MLP3-MNIST-Muon.ipynb)**
+- **[WW-MLP3-AdamW.ipynb](WW-MLP3-AdamW.ipynb)**
+- **[WW-MLP3-BatchSizes.ipynb](WW-MLP3-BatchSizes.ipynb)**
+- **[WW_MLP3_LearningRates.ipynb](WW_MLP3_LearningRates.ipynb)**
+- **[Epoch-Wise-DoubleDescent.ipynb](Epoch-Wise-DoubleDescent.ipynb)**
+
+---
+
+## 🧬 LLM + Fine-Tuning Examples
+- **[OLMO1B.ipynb](OLMO1B.ipynb)**
+- **[OLMO1B_Fine_Tuning_Results.csv](OLMO1B_Fine_Tuning_Results.csv)**
+- **[WW_FIneTuned_Alphas.ipynb](WW_FIneTuned_Alphas.ipynb)**
+- **[WW_Mistral_DragonKings.ipynb](WW_Mistral_DragonKings.ipynb)**
+- **[WW_PEFT.ipynb](WW_PEFT.ipynb)**
+- **[WW_SVDSMoothing_TinyLLaMAipynb.ipynb](WW_SVDSMoothing_TinyLLaMAipynb.ipynb)**
+
+---
+
+## 🧪 Miscellaneous
+- **[random_labels/](random_labels/)**
+- **[F_Vallet_Full.ipynb](F_Vallet_Full.ipynb)**
+- **[WW_DoubleDesecent.ipynb](WW_DoubleDesecent.ipynb)**
+
+---
+
+## 🚀 What These Examples Demonstrate
+- How α < 2 identifies overfitting & correlation traps  
+- Spectral **phase transitions** during training  
+- **Epoch-wise double descent** behavior  
+- Optimizer differences (Muon vs AdamW vs SGD)  
+- Fine‑tuning shifts between underfit → well‑fit → overfit  
+- Diagnostics for memorization and rank collapse  
+
+---
+
+## 📦 Getting Started
+```bash
+git clone https://github.com/CalculatedContent/WeightWatcher-Examples.git
+cd WeightWatcher-Examples
+pip install weightwatcher
+jupyter notebook
+```
+
+---
+
+## 📜 License
+MIT License — see **LICENSE**
