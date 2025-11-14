@@ -16,7 +16,7 @@ How varying the batch size and/or learning rates affect convergence
 - **[WW-MLP3-BatchSizes.ipynb](WW-MLP3-BatchSizes.ipynb)**
 - **[WW_MLP3_LearningRates.ipynb](WW_MLP3_LearningRates.ipynb)**
 
-Explaining Epoc-wise Double Descent
+Explaining Epoch-wise Double Descent 
 - **[WW_MLP3_LearningRates.ipynb](WW_MLP3_LearningRates.ipynb)**
 
 Comparing the inductive biases between AdamW and Muon
