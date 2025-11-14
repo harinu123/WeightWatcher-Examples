@@ -48,17 +48,13 @@ The original 1989 Double Descent Experiment (https://calculatedcontent.com/2024/
 ---
 
 ## 🧪 Miscellaneous
-Nature paper (https://www.nature.com/articles/s41467-021-24025-8):  VGG, ResNet, and DenseNet 
-- **[WW-VGG.ipynb](WW-VGG.ipynb)
-- **[WW-ResNet.ipynb](WW-ResNet.ipynb)
-- **[WW-DenseNet.ipynb](WW-DenseNet.ipynb)
-- **[WW-GPT.ipynb](WW-GPT.ipynb)
 
 Comparing BERT, RoBERTa, XLNet
-- **[WW-BERT-BlogExample.ipynb](WW-BERT-BlogExample.ipynb)
+- **[WW-BERT-BlogExample.ipynb](WW-BERT-BlogExample.ipynb)**
 
-ONNX example
-- **[WW-ONNX.ipynb](WW-ONNX.ipynb)**
+ONNX Format
+- **[WW-ONNX.ipynb](WW-ONXX.ipynb)**
+
 
 Old experiments on random labels
 - **[random_labels/](random_labels/)**
