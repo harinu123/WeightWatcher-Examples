@@ -8,16 +8,21 @@ These examples span small MLPs, double descent, and billion-parameter LLMs.
 ## 📘 Core Examples
 - **[SingleLayerWWExample.ipynb](SingleLayerWWExample.ipynb)**
 
-
 ---
 
 ## 🧠 MLP + MNIST Experiments
-- **[MLP3-MNIST-AdamW.ipynb](MLP3-MNIST-AdamW.ipynb)**
-- **[MLP3-MNIST-Muon.ipynb](MLP3-MNIST-Muon.ipynb)**
-- **[WW-MLP3-AdamW.ipynb](WW-MLP3-AdamW.ipynb)**
+
+How varying the batch size and/or learning rates affect convergence
 - **[WW-MLP3-BatchSizes.ipynb](WW-MLP3-BatchSizes.ipynb)**
 - **[WW_MLP3_LearningRates.ipynb](WW_MLP3_LearningRates.ipynb)**
-- **[Epoch-Wise-DoubleDescent.ipynb](Epoch-Wise-DoubleDescent.ipynb)**
+
+Explaining Epoc-wise Double Descent
+- **[WW_MLP3_LearningRates.ipynb](WW_MLP3_LearningRates.ipynb)**
+
+Comparing the inductive biases between AdamW and Muon
+- **[MLP3-MNIST-AdamW.ipynb](MLP3-MNIST-AdamW.ipynb)**
+- **[MLP3-MNIST-Muon.ipynb](MLP3-MNIST-Muon.ipynb)**
+
 
 ---
 
@@ -35,7 +40,7 @@ These examples span small MLPs, double descent, and billion-parameter LLMs.
 - **[random_labels/](random_labels/)**
 - **[F_Vallet_Full.ipynb](F_Vallet_Full.ipynb)**
 - **[WW_DoubleDesecent.ipynb](WW_DoubleDesecent.ipynb)**
-
+- **[WW-MLP3-AdamW.ipynb] (WW-MLP3-AdamW.ipynb)**
 ---
 
 ## 🚀 What These Examples Demonstrate
